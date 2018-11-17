@@ -7,7 +7,7 @@
 
 ## Resources
 
-* [Slides(TODO)]()
+* [Slides](https://docs.google.com/presentation/d/1Gz-9RlOO_opLLvYf7Mo_SM3bNL6T-AatMW6L5RFrZMY/edit#slide=id.g46e2a4ed37_0_216)
 
 * [Jimp 🖍 Documentation](https://github.com/oliver-moran/jimp/tree/master/packages/jimp)
 
